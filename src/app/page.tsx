@@ -70,27 +70,27 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/grilled-bbq-beefsteak-slices-with-tomato-french-fries-prickld-cucumber_140725-10540.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grilled-bbq-beefsteak-slices-with-tomato-french-fries-prickld-cucumber_140725-10540.jpg?_wi=1",
           imageAlt: "Premium Doner Kebab",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/grilled-bbq-beefsteak-slices-with-tomato-french-fries-prickld-cucumber_140725-10540.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grilled-bbq-beefsteak-slices-with-tomato-french-fries-prickld-cucumber_140725-10540.jpg?_wi=2",
           imageAlt: "Kebab Grill",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/grilled-bbq-beefsteak-slices-with-tomato-french-fries-prickld-cucumber_140725-10540.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grilled-bbq-beefsteak-slices-with-tomato-french-fries-prickld-cucumber_140725-10540.jpg?_wi=3",
           imageAlt: "Urfa Meat Dish",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/grilled-bbq-beefsteak-slices-with-tomato-french-fries-prickld-cucumber_140725-10540.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grilled-bbq-beefsteak-slices-with-tomato-french-fries-prickld-cucumber_140725-10540.jpg?_wi=4",
           imageAlt: "Fresh Durum",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/grilled-bbq-beefsteak-slices-with-tomato-french-fries-prickld-cucumber_140725-10540.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grilled-bbq-beefsteak-slices-with-tomato-french-fries-prickld-cucumber_140725-10540.jpg?_wi=5",
           imageAlt: "Traditional Turkish Food",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/grilled-bbq-beefsteak-slices-with-tomato-french-fries-prickld-cucumber_140725-10540.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grilled-bbq-beefsteak-slices-with-tomato-french-fries-prickld-cucumber_140725-10540.jpg?_wi=6",
           imageAlt: "Flame Grilled Kebab",
         },
       ]}
@@ -133,19 +133,19 @@ export default function LandingPage() {
         {
           title: "€1–10 Meals",
           description: "High value and satisfying portions.",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-azerbaijani-grape-leaves-dolma-served-with-yogurt-vegetables-pickles_140725-5197.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-azerbaijani-grape-leaves-dolma-served-with-yogurt-vegetables-pickles_140725-5197.jpg?_wi=1",
           imageAlt: "Affordable",
         },
         {
           title: "Fresh Daily",
           description: "Fresh ingredients sourced daily.",
-          imageSrc: "http://img.b2bpic.net/free-photo/doner-wrapped-lavash-with-side-fries-ketchup_141793-665.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/doner-wrapped-lavash-with-side-fries-ketchup_141793-665.jpg?_wi=1",
           imageAlt: "Fresh",
         },
         {
           title: "Fast Service",
           description: "No waiting, just kebabs.",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-fried-meat-bones-with-fried-vegetables-sauce-table-food-meal-dinner-restaurant_140725-28153.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-fried-meat-bones-with-fried-vegetables-sauce-table-food-meal-dinner-restaurant_140725-28153.jpg?_wi=1",
           imageAlt: "Fast",
         },
       ]}
@@ -166,7 +166,7 @@ export default function LandingPage() {
           name: "Classic Doner",
           price: "€6.50",
           variant: "Authentic",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-azerbaijani-grape-leaves-dolma-served-with-yogurt-vegetables-pickles_140725-5197.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-azerbaijani-grape-leaves-dolma-served-with-yogurt-vegetables-pickles_140725-5197.jpg?_wi=2",
           imageAlt: "Doner",
         },
         {
@@ -174,7 +174,7 @@ export default function LandingPage() {
           name: "Chicken Durum",
           price: "€5.50",
           variant: "Wrap",
-          imageSrc: "http://img.b2bpic.net/free-photo/doner-wrapped-lavash-with-side-fries-ketchup_141793-665.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/doner-wrapped-lavash-with-side-fries-ketchup_141793-665.jpg?_wi=2",
           imageAlt: "Wrap",
         },
         {
@@ -182,7 +182,7 @@ export default function LandingPage() {
           name: "Urfa Spice Plate",
           price: "€8.00",
           variant: "Signature",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-fried-meat-bones-with-fried-vegetables-sauce-table-food-meal-dinner-restaurant_140725-28153.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-fried-meat-bones-with-fried-vegetables-sauce-table-food-meal-dinner-restaurant_140725-28153.jpg?_wi=2",
           imageAlt: "Plate",
         },
       ]}
@@ -203,7 +203,7 @@ export default function LandingPage() {
           handle: "@foodie",
           testimonial: "Very tasty and fresh!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/female-friends-enjoying-burgers-together-restaurant_23-2148666557.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-friends-enjoying-burgers-together-restaurant_23-2148666557.jpg?_wi=1",
         },
         {
           id: "2",
@@ -235,7 +235,7 @@ export default function LandingPage() {
           handle: "@urfalover",
           testimonial: "The most authentic taste in the city!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/female-friends-enjoying-burgers-together-restaurant_23-2148666557.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-friends-enjoying-burgers-together-restaurant_23-2148666557.jpg?_wi=2",
         },
       ]}
       showRating={true}
